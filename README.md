@@ -1,5 +1,3 @@
-# remote-appointment-setter-hiring
-
 # Remote Appointment Setter & Sales Closer
 
 ## Compensation
